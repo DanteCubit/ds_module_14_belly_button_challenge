@@ -125,7 +125,7 @@ function init() {
 
     // Build charts and metadata panel with the first sample
     buildCharts(first_sample);
-    buildMetadata(first); //change for website
+    buildMetadata(first_sample); //change for website
   });
 }
 
